@@ -3,3 +3,4 @@ test_questbot
 test
 test2
 test
+test close
