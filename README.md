@@ -4,4 +4,3 @@ test
 test2
 test
 test close
-test bug
